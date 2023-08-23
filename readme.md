@@ -1,7 +1,7 @@
 <p>Olá! Neste arquivo, você encontrará um link para o projeto "Águia-01" hospedado no GitHub. Este projeto é sobre águias e pode conter informações interessantes sobre essas incríveis aves.</p>
 
 
-<img alt="preview site de exemplo águia"  src="C:\Users\andre\Documents\aguia-01\img\exe-site-aguia.jpg" width="100%">
+<img alt="preview site de exemplo águia"  src=".github/exe-site-aguia.jpg" width="100%">
 
 <h1># Sobre o Projeto</h1>
 
