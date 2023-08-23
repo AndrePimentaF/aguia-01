@@ -1,15 +1,17 @@
-Olá! Neste arquivo, você encontrará um link para o projeto "Águia-01" hospedado no GitHub. Este projeto é sobre águias e pode conter informações interessantes sobre essas incríveis aves.
+<p>Olá! Neste arquivo, você encontrará um link para o projeto "Águia-01" hospedado no GitHub. Este projeto é sobre águias e pode conter informações interessantes sobre essas incríveis aves.</p>
 
 
-## Sobre o Projeto
+<img alt="preview site de exemplo águia"  src="C:\Users\andre\Documents\aguia-01\img\exe-site-aguia.jpg" width="100%">
 
-O projeto "Águia-01" é um site de exemplo utilizando html e css:
+<h1># Sobre o Projeto</h1>
 
-[**Águia-01 GitHub**](https://andrepimentaf.github.io/aguia-01/)
+<p>O projeto "Águia-01" é um site de exemplo utilizando html e css:</h1>
 
-## Como Acessar o Projeto
+<a href="https://andrepimentaf.github.io/aguia-01/" target="_blank">[**Águia-01 GitHub**]</a>
 
-1. Clique no link acima. Isso abrirá uma nova aba ou janela no seu navegador.
+<h2> Como Acessar o exemplo</h2>
+
+<p>1. Clique no link acima. Isso abrirá uma nova aba ou janela no seu navegador.
 
 2. Você será direcionado para a página do projeto "Águia-01" no GitHub.
 
@@ -17,7 +19,7 @@ O projeto "Águia-01" é um site de exemplo utilizando html e css:
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT.
+Esse projeto está sob a licença MIT.</p>
 
 ---
 
