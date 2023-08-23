@@ -202,3 +202,10 @@ footer a:hover{
     text-decoration:underline;
     color:#FFDF82;
 }
+
+.header-background {
+    background-image: url('img/aguia-03-150.jpg');
+    background-size: cover; 
+    background-position: center;
+    background-attachment: fixed;
+}
